@@ -1,0 +1,11 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(33, 80, 135);
+  }
+  .link{
+      text-align: center;
+      font-size: 20px;
+      color: aqua;
+      margin: 34%;
+  }
